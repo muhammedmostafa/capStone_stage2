@@ -1,34 +1,37 @@
 [
   {
-    "id" : 1, "name" : "abnormal behavior", "nameInArabic" : "سُلُوك غْيَر سَوِى  ", "meaning" : ""
+  "id" : 1, "name" : "Abnormal", "nameInArabic" : "شَاذ، غَيْر عَادِي، غَيْر سَوِي، غَيْر طَبِيِعي", "meaning" : "من أمثلة الكلمات التي تضم هذه البادئة Xغير الطبيعي
+ZAbnormal ، ومنها السلوك غير السوي وعلم النفس الخاص
+بالشواذ."
   },
   {
-  	"id" : 2, "name" : "abnormal psychology", "nameInArabic" : "علْم نَفْس الشواذ ", "meaning" : ""
+    "id" : 2, "name" : "abnormal behavior", "nameInArabic" : "سُلُوك غْيَر سَوِى  ", "meaning" : ""
   },
   {
-    "id" : 3, "name" : "AA (alcoholics anonymous)", "nameInArabic" : "أ.أ. مختصر )الكحولي المجهول( ",
+  	"id" : 3, "name" : "abnormal psychology", "nameInArabic" : "علْم نَفْس الشواذ ", "meaning" : ""
+  },
+  {
+    "id" : 4, "name" : "AA (alcoholics anonymous)", "nameInArabic" : "أ.أ. مختصر )الكحولي المجهول( ",
      "meaning" : "الكحولي المجهول ( AA ) وسيلة للعلاج الجماعي لمدمني الكحول
 بدأت في عام 1935 ، وتتم بالتعاون مع المدمنين السابقين، ودون
 إفصاح عن هوية أفراد المجموعة العلاجية لتشجيع الانضمام إليها."
   },
   {
-    "id" : 4, "name" : "ab-", "nameInArabic" : "بادئة معناها: بَعيد عَن ", "meaning" : "تدخل هذه الصيغة في تعبيرات تدل على الابتعاد مثل الهجر
+    "id" : 5, "name" : "ab-", "nameInArabic" : "بادئة معناها: بَعيد عَن ", "meaning" : "تدخل هذه الصيغة في تعبيرات تدل على الابتعاد مثل الهجر
 وخطف إنسان إلى مكان بعيد."
   },
   {
-    "id" : 5, "name" : "abandonment", "nameInArabic" : "هَجْر، تَرْك، تَنَازُل ", "meaning" : ""
+    "id" : 6, "name" : "abandonment", "nameInArabic" : "هَجْر، تَرْك، تَنَازُل ", "meaning" : ""
   },
   {
-    "id" : 6, "name" : "abduct", "nameInArabic" : "يخطف، يبعد", "meaning" : ""
+    "id" : 7, "name" : "abduct", "nameInArabic" : "يخطف، يبعد", "meaning" : ""
   },
   {
-  "id" : 7, "name" : "ABC", "nameInArabic" : "مبادىء عِلْم أو موضوع ما", "meaning" : ""
-  },
-   {
-  "id" : 8, "name" : "", "nameInArabic" : "", "meaning" : "في بعض عناوين الكتب أو الموضوعات تستخدم هذه الصيغة لتدل
+  "id" : 8, "name" : "ABC", "nameInArabic" : "مبادىء عِلْم أو موضوع ما", "meaning" : "في بعض عناوين الكتب أو الموضوعات تستخدم هذه الصيغة لتدل
 على أن المحتوي هو مبادئ لعلم أو موضوع، وتستخدم قائمة
 التشخيص ABC في تشخيص الحالات النفسية."
   },
+   
    {
   "id" : 9, "name" : "ABC checklist", "nameInArabic" : "قَائِمَة ) تشخيص(", "meaning" : ""
   },
